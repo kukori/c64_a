@@ -2557,7 +2557,7 @@
     (uuid 50d77f76-2263-4e5b-952f-03c8b908276f)
     (property "Reference" "J1" (id 0) (at 170.815 35.56 0))
     (property "Value" "Conn_01x20_Male" (id 1) (at 170.815 38.1 0))
-    (property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x20_P1.00mm_Horizontal" (id 2) (at 170.18 63.5 0)
+    (property "Footprint" "Connector_PinHeader_1.27mm:PinHeader_1x20_P1.27mm_Horizontal" (id 2) (at 170.18 63.5 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 170.18 63.5 0)
@@ -4382,7 +4382,7 @@
       (reference "H6") (unit 1) (value "ENTER_STABILIZER") (footprint "bschwind_stabilizers:cherry_mx_stabilizer_2.00u")
     )
     (path "/50d77f76-2263-4e5b-952f-03c8b908276f"
-      (reference "J1") (unit 1) (value "Conn_01x20_Male") (footprint "Connector_PinHeader_1.00mm:PinHeader_1x20_P1.00mm_Horizontal")
+      (reference "J1") (unit 1) (value "Conn_01x20_Male") (footprint "Connector_PinHeader_1.27mm:PinHeader_1x20_P1.27mm_Horizontal")
     )
     (path "/6b258f22-926d-4192-b794-d0d003b1d1f3"
       (reference "SW1") (unit 1) (value "1") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
