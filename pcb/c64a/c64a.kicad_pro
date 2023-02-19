@@ -390,7 +390,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "c64a.step",
+      "step": "../../pcb_prototype/c64a.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
